@@ -75,15 +75,16 @@ h1 {
     background-color: #A4FED8;
     border-radius: 25px;
     height: 250px;
-    width: 30%;
-    margin: 1em;
+    width: 25%;
+    margin: 2.8em;
+   
 }
 .box3 {
     display: inline-block;
     background-color: #FFC36B;
     height: 250px;
-    width: 45%;
-    margin: 1em;
+    width: 43%;
+    margin: 2em;
 }
 .box4 {
     display: inline-block;
